@@ -1,3 +1,7 @@
+﻿//Zackary Santos
+//Last Saved: 9/14/2026 1:55 PM
+//Challenge #1 - Starbase 7 Bug Fix
+//I was given a program to bug fix and solve all the errors
 //Peer Review Name:Brandon Langehennig
 //Review: great job, although when it did the ID badge it used the second letter of my name instead of first, and also recieved a runtime error on line 309.
 
